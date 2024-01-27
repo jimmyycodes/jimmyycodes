@@ -1,10 +1,9 @@
-![MasterHead](https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif)
-<h1 align="center">Hi 👋, I'm Jimmy Le</h1>
+<h1 align="center">
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=3993&pause=1000&color=D6D6D6&center=true&vCenter=true&random=false&width=500&height=70&lines=Hi+There!%F0%9F%91%8B;I'm+Jimmy+Le!" alt="Typing SVG" /></a>
+</h1>
 <h3 align="center">I'm a passionate college student pursuing Software Engineering from Seattle.</h3>
-
-<img align="right" alt="Coding" width="400" src=“https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif”>
-
-- 🔭 I’m currently working on [Designing a Social Robot to reduce smart phone usage in teens](https://airtable.com/appO71a5zYbYIAHSS/shrz0WzsvaGkVegWb/tblaA95nXFxkAIRZP/viwqaQJucGewjycxJ/rec1bjBTwdvNU2gVi)
+<img align="right" src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif"/>
+- 🔭 I’m currently working on Designing a Social Robot to reduce smart phone usage in teens(https://airtable.com/appO71a5zYbYIAHSS/shrz0WzsvaGkVegWb/tblaA95nXFxkAIRZP/viwqaQJucGewjycxJ/rec1bjBTwdvNU2gVi)
 
 - 🌱 I’m currently learning **SQL/XQuery, C, Assembly(x86/64)**
 
@@ -26,3 +25,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jimmyycodes&show_icons=true&locale=en&layout=compact" alt="jimmyycodes" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jimmyycodes&show_icons=true&locale=en" alt="jimmyycodes" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jimmyycodes&" alt="jimmyycodes" /></p>
