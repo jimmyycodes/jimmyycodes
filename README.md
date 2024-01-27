@@ -1,8 +1,15 @@
 <h1 align="center">
+  <body>
+   <div class="content">
+     <img height=300 width=1000 src="https://i.redd.it/ddnm7kmznqd71.gif" alt="MasterHead">
+   </div>
+ </body>
+</h1>
+<h1 align="center">
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=3993&pause=1000&color=D6D6D6&center=true&vCenter=true&random=false&width=500&height=70&lines=Hi+There!%F0%9F%91%8B;I'm+Jimmy+Le!" alt="Typing SVG" /></a>
 </h1>
 <h3 align="center">Aspiring college SWE whose currently interested in developing client/web server-based apps!</h3>
-<img align="right" src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif"/>
+<img align="right" width=400 height=400 src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif"/>
 - 🔭 I’m currently working on Designing a Social Robot to reduce smart phone usage in teens(https://airtable.com/appO71a5zYbYIAHSS/shrz0WzsvaGkVegWb/tblaA95nXFxkAIRZP/viwqaQJucGewjycxJ/rec1bjBTwdvNU2gVi)
 
 - 🌱 I’m currently learning **SQL/XQuery, C, Assembly(x86/64)**
