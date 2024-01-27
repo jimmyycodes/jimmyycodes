@@ -3,7 +3,7 @@
 </h1>
 <h3 align="center">Aspiring college SWE whose currently interested in developing client/web server-based apps!</h3>
 <img align="right" src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif"/>
-- 🔭 I’m currently working on Designing a Social Robot to reduce smart phone usage in teens(https://airtable.com/appO71a5zYbYIAHSS/shrz0WzsvaGkVegWb/tblaA95nXFxkAIRZP/viwqaQJucGewjycxJ/rec1bjBTwdvNU2gVi)
+- 🔭 I’m currently working on **Designing a Social Robot to reduce smart phone usage in teens**(https://airtable.com/appO71a5zYbYIAHSS/shrz0WzsvaGkVegWb/tblaA95nXFxkAIRZP/viwqaQJucGewjycxJ/rec1bjBTwdvNU2gVi)
 
 - 🌱 I’m currently learning **SQL/XQuery, C, Assembly(x86/64)**
 
