@@ -6,7 +6,7 @@
  </body>
 </h1>
 <h1 align="center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=3993&pause=1000&color=D6D6D6&center=true&vCenter=true&random=false&width=500&height=70&lines=Hi+There!%F0%9F%91%8B;I'm+Jimmy+Le!" alt="Typing SVG" /></a>
+ <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=3993&pause=1000&color=D6D6D6&center=true&vCenter=true&random=false&width=500&height=70&lines=Hi+There!%F0%9F%91%8B;I'm+Jimmy+Le!" alt="Typing SVG" />
 </h1>
 <h3 align="center">Aspiring college SWE whose currently interested in developing client/web server-based apps!</h3>
 <img align="right" width=400 height=400 src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif"/>
