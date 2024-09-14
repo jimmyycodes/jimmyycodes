@@ -8,17 +8,13 @@
 <h1 align="center">
  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=3993&pause=1000&color=D6D6D6&center=true&vCenter=true&random=false&width=500&height=70&lines=Hi+There!%F0%9F%91%8B;I'm+Jimmy+Le!" alt="Typing SVG" />
 </h1>
-<h3 align="center">Aspiring college SWE whose currently interested in developing client/web server-based apps!</h3>
+<h3 align="center">Aspiring college SWE who is currently interested in developing client/web server-based apps!</h3>
 <img align="right" width=400 height=400 src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif"/>
-- 🔭 I’m currently working on Designing a Social Robot to reduce smart phone usage in teens(https://airtable.com/appO71a5zYbYIAHSS/shrz0WzsvaGkVegWb/tblaA95nXFxkAIRZP/viwqaQJucGewjycxJ/rec1bjBTwdvNU2gVi)
+- 🔭 I’m currently working on two personal projects of mine(travel app and course website)
 
-- 🌱 I’m currently learning **SQL/XQuery, C, Assembly(x86/64)**
-
-- 💬 Ask me about **Node.js, React, Algorithms & Data structures!**
+- 🌱 I’m currently learning **React and VB.NET**
 
 - 📫 How to reach me **jimmyhuule@gmail.com**
-
-- ⚡ Fun fact **I know how to solve a rubix cube in under 1 minute**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
