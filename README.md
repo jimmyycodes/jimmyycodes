@@ -10,9 +10,8 @@
 </h1>
 <h3 align="center">Aspiring college SWE who is currently interested in developing client/web server-based apps!</h3>
 <img align="right" width=400 height=400 src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif"/>
-- 🔭 I’m currently working on two personal projects of mine(travel app and course website)
 
-- 🌱 I’m currently learning **React(with a focus on libraries such as material UI) and VB.NET**
+- 🌱 I’m currently learning **Web scraping(with a focus on using tools like beautiful soup and selenium) **
 
 - 📫 How to reach me **jimmyhuule@gmail.com**
 
